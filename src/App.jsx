@@ -34,7 +34,7 @@ export default function App() {
       </aside>
       <main style={{ flex: 1, padding: '40px' }}>
         <iframe 
-          src={`https://open.spotify.com/embed/album/${activeId}`} 
+          src={`https://open.spotify.com/playlist/37i9dQZF1E4uFaIDHtZKAJ${activeId}`} 
           width="100%" 
           height="500" 
           frameBorder="0" 
