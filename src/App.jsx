@@ -55,7 +55,7 @@ export default function App() {
         <div style={{ width: '100%', maxWidth: '800px' }}>
           <iframe 
             // THE CORRECTED URL FORMAT:
-            src={`https://open.spotify.com/embed/album/${activeId}?utm_source=generator&theme=0`} 
+            src={`https://open.spotify.com/playlist/3k2WDPycKAv8Fybz0ssPpL?si=7572bbee60784fd7`} 
             width="100%" 
             height="500" 
             frameBorder="0" 
